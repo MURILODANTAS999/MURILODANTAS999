@@ -1,5 +1,5 @@
 ## Boas vindas ao meu perfil 💙💙
-Meu nome é Murilo Dantas
+## Meu nome é Murilo Dantas
 
 ## •Estou estudando na Alura
 
